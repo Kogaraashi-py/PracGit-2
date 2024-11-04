@@ -13,10 +13,41 @@ z= "que respiro el aire que respiro el aire que respiras tu"
 
 print(z)
 
-#ok ahoa vamos a hacer el tecer commit y tratar de volver el y añadir lo que llevamos alli a una nueva rama
 
-h = "tecer commit"
 
-a ="amor de mis amores,tuuuuuuu eres mi cielo"
 
-print(a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#wahahahahahahaha ahora estamos en el estado detached HEAD y desde aqui voy a realizar unas modifiaciones
+
+z = [1,2,3,4,5,8]
+
+for x in z:
+    print(x)
+
+
+"""poniendo la mano en el corazon quisiera decirte que tu eres mi razon amor de mis amores tueres mi cielo"""
+
+amor = '''        que respiro el aire que respiras tu
+        no tienes remedio eres mi gran amor
+        amor de mis amores,sangre de mi alma,
+        regalame las flores de la esperanza
+        '''
+print(amor)
+
