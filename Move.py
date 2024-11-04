@@ -19,3 +19,13 @@ z = [1,2,3,4,5,8]
 
 for x in z:
     print(x)
+
+
+"""poniendo la mano en el corazon quisiera decirte que tu eres mi razon amor de mis amores tueres mi cielo"""
+
+amor = '''        que respiro el aire que respiras tu
+        no tienes remedio eres mi gran amor
+        amor de mis amores,sangre de mi alma,
+        regalame las flores de la esperanza
+        '''
+print(amor)
