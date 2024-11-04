@@ -13,6 +13,7 @@ z= "que respiro el aire que respiro el aire que respiras tu"
 
 print(z)
 
+<<<<<<< HEAD
 
 
 
@@ -34,6 +35,8 @@ print(z)
 
 
 
+=======
+>>>>>>> Amor
 #wahahahahahahaha ahora estamos en el estado detached HEAD y desde aqui voy a realizar unas modifiaciones
 
 z = [1,2,3,4,5,8]
@@ -49,5 +52,9 @@ amor = '''        que respiro el aire que respiras tu
         amor de mis amores,sangre de mi alma,
         regalame las flores de la esperanza
         '''
+<<<<<<< HEAD
 print(amor)
 
+=======
+print(amor)
+>>>>>>> Amor
