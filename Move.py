@@ -12,3 +12,10 @@ y = "segundo commit"
 z= "que respiro el aire que respiro el aire que respiras tu"
 
 print(z)
+
+#wahahahahahahaha ahora estamos en el estado detached HEAD y desde aqui voy a realizar unas modifiaciones
+
+z = [1,2,3,4,5,8]
+
+for x in z:
+    print(x)
